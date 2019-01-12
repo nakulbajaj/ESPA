@@ -25,7 +25,7 @@ As of now, ESPA kind of meets requirement one, barely qualifies to even be consi
 This expert system was based on the capabilities and compatibilities of the Jess expert system shell. Although I hope to be able to port this program so it is more accessible with a GUI and perhaps even make it into its own native desktop application, we will have to stick to the limitations of Jess for now. With that being said, the steps below outline briefly how one can run this program on their own machine.
 
 1. Download the Jess shell along with its resources by downloading the folder in this repo titled Jess71p1.zip.
-2. Unzip the file and place the director on your desktop.
+2. Unzip the file and place the directory on your desktop.
 3. Download espa.clp from this repo and place it inside Jess71p1/bin.
 4. Navigate to the bin folder from your terminal and run ./jess
 5. Allow the Jess shell to load and then run "(batch espa.clp)"
